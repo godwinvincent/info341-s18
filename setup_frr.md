@@ -43,6 +43,6 @@ Edit `/etc/frr/daemons` and set `zebra=yes`. Repeat this process for any other r
 ### Shortcuts
 Command abbreviations are accepted in VTY shell as long as the abbreviation is unambiguous. The shell will do its best to determine your intent and complete the command.
 
-`configure terminal` can be abbreviated `conf t`
-`quit` can be abbreviated `q`
-`write memory` can be abbreviated `w m` 
+- `configure terminal` can be abbreviated `conf t`
+- `quit` can be abbreviated `q`
+- `write memory` can be abbreviated `w m` 
